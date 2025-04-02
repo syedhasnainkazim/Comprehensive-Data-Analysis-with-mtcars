@@ -5,7 +5,6 @@
 #              including data exploration, cleaning, visualization, correlation
 #              analysis, modeling, and hypothesis testing using the mtcars dataset.
 # Author: Syed Kazim
-# Date: [Insert Date]
 # =============================================================================
 
 # -----------------------------------------------------------------------------
